@@ -34,12 +34,7 @@
 
 ## 📦 Prerequisites
 
-Make sure you have Python installed. You’ll also need these libraries:
+-Make sure you have Python installed. You’ll also need these libraries:
 
 ```bash
 pip install pygame pyttsx3
-
-
-
-
- 
